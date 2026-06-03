@@ -2,7 +2,8 @@
 
 An interactive, embedded memory game developed in C for the Arduino Nano. The system implements electronic state-machine logic to generate random light and sound sequences that the player must replicate using push-buttons.
 
-[![Watch the Video](https://youtu.be/8FqThJraB68)]
+[![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/8FqThJraB68)
+
 
 ---
 
@@ -22,8 +23,10 @@ An interactive, embedded memory game developed in C for the Arduino Nano. The sy
 
 Below is the schematic diagram for the project setup. The buttons utilize the ATmega328P's internal `INPUT_PULLUP` resistors, pulling the signal to `LOW` when pressed.
 
-![Circuit](img/Circuito.jpg)
-![Diagram](img/Diagrama.jpeg)
+<p align="center">
+  <img src="img/Circuito.jpg" width="45%" />
+  <img src="img/Diagrama.jpeg" width="45%" />
+</p>
 
 ---
 
