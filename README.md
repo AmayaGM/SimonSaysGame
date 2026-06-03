@@ -30,7 +30,7 @@ Below is the schematic diagram for the project setup. The buttons utilize the AT
 
 
 <p align="center">
-  <img src="img/game.jpg" width="45%" />
+  <img src="img/game2.jpg" width="45%" />
 </p>
 ---
 
