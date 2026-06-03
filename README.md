@@ -24,10 +24,14 @@ An interactive, embedded memory game developed in C for the Arduino Nano. The sy
 Below is the schematic diagram for the project setup. The buttons utilize the ATmega328P's internal `INPUT_PULLUP` resistors, pulling the signal to `LOW` when pressed.
 
 <p align="center">
+  <img src="img/game.jpg" width="45%" />
   <img src="img/Circuito.jpg" width="45%" />
-  <img src="img/Diagrama.jpeg" width="45%" />
 </p>
 
+
+<p align="center">
+  <img src="img/Diagrama.jpeg" width="45%" />
+</p>
 ---
 
 ## 💻 Software Logic & Features
