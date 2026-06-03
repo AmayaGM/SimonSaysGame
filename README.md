@@ -2,7 +2,7 @@
 
 An interactive, embedded memory game developed in C for the Arduino Nano. The system implements electronic state-machine logic to generate random light and sound sequences that the player must replicate using push-buttons.
 
-[![Watch the Video]([https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube](https://youtu.be/8FqThJraB68))]
+[![Watch the Video](https://youtu.be/8FqThJraB68)]
 
 ---
 
